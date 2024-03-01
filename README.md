@@ -14,5 +14,5 @@ Increasing grades go from (inclusions) I1, SI2, SI1, VS2, VS1, VVS2, VVS1, IF (i
 - depth: Proportional depth of the diamond, as a percentage. This is computed as 2 * z / (x + y), or the ratio of the depth to the average of length and width. 
 For the case study, we will concentrate only on the variables in the top five bullet points: price and the four 'C's of diamond grade. Our focus will be on answering the question about the degree of importance that each of these quality measures has on the pricing of a diamond. 
 
-You can see an example report covering all of the variables in the project information lesson.
+You can see an example report covering all of the variables in this project above.
 **
