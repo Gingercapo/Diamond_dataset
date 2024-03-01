@@ -1,7 +1,7 @@
 # Diamond_dataset
-Information on the Diamond Dataset In this lesson, you'll be working with a dataset regarding the prices and attributes of approximately 54,000 round-cut diamonds. You'll go through the steps of an explanatory data visualization, systematically starting from univariate visualizations, moving through bivariate visualizations, and finally multivariate visualizations. Finally, you'll work on polishing up selected plots from the analysis so that their main points can be clearly conveyed to others. 
+**Information on the Diamond Dataset In this Project, I will be working with a dataset regarding the prices and attributes of approximately 54,000 round-cut diamonds. I go through the steps of an explanatory data visualization, systematically starting from univariate visualizations, moving through bivariate visualizations, and finally multivariate visualizations. Finally, I will work on polishing up selected plots from the analysis so that their main points can be clearly conveyed to others. 
 
-''' You can find a copy of the dataset in the Resources tab of the classroom; it will automatically be available to you in the workspaces of this lesson. The dataset consists of almost 54,000 rows and 10 columns:'''
+''' You can find a copy of the dataset in the above folder;  The dataset consists of almost 54,000 rows and 10 columns:'''
 
 - price: Price in dollars. Data were collected in 2008. 
 - carat: Diamond weight. 
@@ -15,3 +15,4 @@ Increasing grades go from (inclusions) I1, SI2, SI1, VS2, VS1, VVS2, VVS1, IF (i
 For the case study, we will concentrate only on the variables in the top five bullet points: price and the four 'C's of diamond grade. Our focus will be on answering the question about the degree of importance that each of these quality measures has on the pricing of a diamond. 
 
 You can see an example report covering all of the variables in the project information lesson.
+**
